@@ -39,6 +39,7 @@ backend.php:243
 # Requirements
 
 - PHP 7.4 or higher
+- Spotify and Instagram Account
 
 # Screenshot
 ![image](https://user-images.githubusercontent.com/65618247/176148493-93a84165-1ce9-4277-8696-8985a9f457ad.png)
