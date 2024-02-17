@@ -10,7 +10,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" alt="Logo" width="80" height="80" />
 </a>
 
-<h3 align="center">Spotinsta V1.0.0</h3>
+<h3 align="center">Spotinsta V1.0.0</h3><br/>
+v2 coming soon
 
 <p align="center">
    The code that writes the song you listen to on Spotify in the Instagram bio
